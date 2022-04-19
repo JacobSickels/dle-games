@@ -61,7 +61,7 @@ function App() {
           Special mention to&nbsp;
           <a
             className="App-link"
-            href="https://semantle.novalis.org//"
+            href="https://semantle.novalis.org/"
             target="_blank"
             rel="noopener noreferrer"
           >
